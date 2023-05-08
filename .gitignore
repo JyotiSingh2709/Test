@@ -1,3 +1,4 @@
 dump.txt
 error.log
 discard.log
+*.log
